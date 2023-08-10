@@ -8,7 +8,7 @@ Kubernetes용 아카이브
 ## TL;DR
 
 ```shell
-$ helm repo add hansanghyeon https://hansanghyeon.github.io/chart/
+$ helm repo add hansanghyeon https://hansanghyeon.github.io/helm-chart/
 $ helm repo update
 ```
 
